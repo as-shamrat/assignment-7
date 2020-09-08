@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    margin: 20px auto;
+}
+.course-container{
+    width: 60%;
+    /* border: 1px solid red; */
+}
+.cart-container{
+    margin: 30px;
+    margin-top: 16px;
+    border: 1px solid black;
+    padding: 15px;
+    height: 200px;
+}

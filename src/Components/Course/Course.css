@@ -1,0 +1,13 @@
+.course{
+    display: flex;
+    border: 1px solid red;
+    padding: 10px;
+}
+.course-img{
+    width: 30%;
+}
+.btn-enroll{
+    padding: 5px 20px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
